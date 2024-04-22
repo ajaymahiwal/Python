@@ -16,7 +16,7 @@ def division(a,b) :
 
 # main
 
-print("calculator application.")
+print("very simple calculator application.")
 
 print("Which Operation You Want To Do:")
 print("Enter 1 for Sum")
